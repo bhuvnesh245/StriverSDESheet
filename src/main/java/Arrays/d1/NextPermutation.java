@@ -1,9 +1,6 @@
 package Arrays.d1;
 
 import java.util.Arrays;
-
-import static java.util.Arrays.sort;
-
 public class NextPermutation {
 
     public static void main(String[] args) {
